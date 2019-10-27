@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="CREAR MATERIAS"
+            android:text="CREAR MATERIA"
             android:textStyle="bold"
             android:textSize="25dp"/>
 
@@ -26,14 +26,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:hint="Ingrese el nombre de la materia"
+            android:hint="Nombre de la Materia"
             tools:ignore="MissingConstraints" />
 
         <EditText
             android:id="@+id/et_semestre"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="Ingrese el semestre"
+            android:hint="Código"
             tools:ignore="MissingConstraints" />
 
         <Button

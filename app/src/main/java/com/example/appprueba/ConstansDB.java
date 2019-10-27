@@ -1,6 +1,6 @@
 package com.example.appprueba;
 
-public class ConstansDB {
+public class    ConstansDB {
 
     //General
     public static final String DB_NAME = "materias.db";
